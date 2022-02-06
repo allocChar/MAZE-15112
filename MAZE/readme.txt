@@ -7,7 +7,7 @@
 
 \f0\fs24 \cf0 Description:\
 \
-This is a video Game called Maze(in funky text). The game consists of a 2D saved as a 2D list in a txt file being represented in 3D from a first person perspective. The goal of the game is to pick up all the balls and get them to the goal without being overpowered by enemies.\
+This is a video Game called Maze(in funky text). The game consists of a room saved as a 2D list in a txt file being represented in 3D from a first person perspective. The goal of the game is to pick up all the balls and get them to the goal without being overpowered by enemies.\
 \
 How to Run:\
 Run main.py, this displays the main menu and gives access to all the other files that the user would need to see.\
